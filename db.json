@@ -4,13 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
-    },
-    {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "likes": ""
     },
     {
       "id": 3,
@@ -27,7 +21,7 @@
     {
       "id": 5,
       "name": "Rex",
-      "image": "https://static.wikia.nocookie.net/pixar/images/a/a8/Rex_%28Toy_Story%29.png/revision/latest/scale-to-width-down/377?cb=20210221010941",
+      "image": "https://petcostumecenter.com/wp-content/uploads/2020/05/Rex-Toy-Story-Dog-Cat-Costume.png",
       "likes": 1
     },
     {
@@ -47,6 +41,21 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "toy",
+      "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0c9f780.jpg",
+      "id": 9
+    },
+    {
+      "name": "bob",
+      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
+      "id": 10
+    },
+    {
+      "name": "Hi",
+      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
+      "id": 11
     }
   ]
 }
